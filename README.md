@@ -21,19 +21,7 @@ I build scalable web applications, APIs, and custom plugins. Passionate about **
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirzaaly&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaaly&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 💬 Connect with Me
 
@@ -44,7 +32,11 @@ I build scalable web applications, APIs, and custom plugins. Passionate about **
   <a href="https://mirza-ali-portfolio-tawny.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF5C5C?style=flat&logo=website&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://discord.com/users/alymirza_" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
+
 
 ---
 
