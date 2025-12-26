@@ -2,7 +2,7 @@
 
 **Full Stack Developer**  
 
-I build scalable web applications, APIs, and custom plugins. Passionate about **clean code**, performance, and solving complex problems.
+I build scalable web applications, AI integrations, and SaaS products.
 
 ---
 
