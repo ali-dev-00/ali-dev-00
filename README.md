@@ -29,7 +29,7 @@ I build scalable web applications, AI integrations, and SaaS products.
   <a href="https://linkedin.com/in/mirzaaly" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mirza-ali-portfolio-tawny.vercel.app" target="_blank">
+  <a href="https://personal-portfolio-five-zeta-92.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF5C5C?style=flat&logo=website&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://discord.com/users/alymirza_" target="_blank">
